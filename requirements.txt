@@ -1,0 +1,6 @@
+pygetwindow
+pyscreeze
+opencv-python
+numpy
+pyautogui
+matplotlib
